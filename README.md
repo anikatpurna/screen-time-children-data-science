@@ -12,7 +12,7 @@
 
 ---
 
-## Why Real Data Could Not Be Used
+## ⚠️ Why Real Data Could Not Be Used
 
 Raw child-level screen-time data is protected by:
 - **COPPA** — prohibits release of identifiable data for children under 13
